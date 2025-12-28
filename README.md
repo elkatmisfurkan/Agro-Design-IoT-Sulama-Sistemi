@@ -1,7 +1,5 @@
 # 🌱 Agro-Design: IoT Tabanlı Otonom Sulama Sistemi (Prototip)
 
-> **TÜBİTAK 2209-A Araştırma Projeleri Destekleme Programı** kapsamında geliştirilmiştir.
-
 ## 📌 Proje Hakkında
 Bu proje, Muş ili iklim koşullarında iç mekan bitki yetiştiriciliğini optimize etmek amacıyla geliştirilmiş otonom bir sulama sistemidir. Sistem, toprak nem sensöründen aldığı verileri işleyerek bitkinin su ihtiyacına göre sulama ünitesini (pompayı) otomatik olarak devreye sokar.
 
